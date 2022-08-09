@@ -1,0 +1,7 @@
+:root{
+    --bg-clr:#F1F3FF;
+}
+
+.bg-custom-light{
+    background-color: var(--bg-clr);
+}
